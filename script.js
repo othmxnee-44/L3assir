@@ -51,8 +51,9 @@ var tl2 = gsap.timeline({scrollTrigger:{
 
 tl2.to("#can",{
     top: "235%",
-    left: "50%",
+    left: "70%",
     width:"30%",
     rotate:"0deg"
 
 }, 'orange')
+
